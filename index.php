@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Square and Cube using for loop</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      @media screen and (max-width: 600px) {
+        form.w-50.m-auto.mt-5.shadow-lg.bg-light.p-5.rounded {
+    width: 100% !important;
+}
+        
+      }
+    </style>
 </head>
 <body>
 <form action="result.php" method="post" class="w-50 m-auto mt-5 shadow-lg bg-light p-5 rounded">
